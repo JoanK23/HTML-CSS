@@ -1,0 +1,36 @@
+p {
+  color: #046;
+  font-size: 16px; 
+}
+
+* {
+  background-color: #d2e4c4 ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: #3c3c3c;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 32px;
+}
+
+h2 {
+  color: #9a275a;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+
+h3 {
+  color: #9a275a ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+li {
+  color: #D24B88;
+}
+
+.negro {
+  color: white;
+  background-color: black;
+} 
